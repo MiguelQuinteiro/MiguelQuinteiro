@@ -1,18 +1,91 @@
-# ¡Bienvenido a mi perfil de GitHub!
+# 👋 Miguel Quinteiro
 
-## Sobre mí
-¡Hola! Soy Miguel Quinteiro, un apasionado de la programación y las matemáticas. En mi perfil de GitHub encontrarás una variedad de repositorios en diferentes lenguajes de programación, donde he trabajado en proyectos relacionados con el estudio de los números primos y su distribución, así como el análisis matemático detrás del Sudoku en sus variantes de 9x9 y 4x4.
+💻 Programador Analista | Sistemas en Banca
+🧠 Especialista en resolución de problemas complejos
+🔢 Investigador independiente en estructuras matemáticas (Sudoku, patrones, combinatoria)
 
-## Temas principales
+---
 
-### Estudio de los Números Primos y su Distribución
-En este conjunto de repositorios, encontrarás una recopilación de programas implementados en lenguajes como VB6, VB.net, GWbasic, Clipper, Foxpro, Dbase, C, C++, Pascal, entre otros. Estos programas están diseñados para explorar y analizar los números primos desde diferentes enfoques, incluyendo algoritmos de generación, teoremas relacionados, cribas, y distribución estadística de los números primos.
+## 🚀 Sobre mí
 
-### Análisis Matemático del Sudoku
-Dentro de mis repositorios también encontrarás investigaciones y programas relacionados con las matemáticas detrás del Sudoku. Me he enfocado en las variantes de 9x9 y 4x4, analizando estrategias, algoritmos y teoría matemática aplicada a este popular juego de lógica. Estos proyectos están implementados en los lenguajes mencionados anteriormente, brindando una visión tanto práctica como teórica.
+Soy programador con experiencia en entornos productivos del sector bancario, trabajando con tecnologías como SQL, SQR, procesos batch y sistemas legacy.
 
-## Contribuciones y Agradecimientos
-Además de mis propios programas, también he recopilado algunos proyectos interesantes de la comunidad de desarrolladores, que considero valiosos para explorar los temas que me apasionan. Quiero agradecer a todos los colaboradores y creadores de estos proyectos por su esfuerzo y dedicación.
+Mi enfoque se basa en el **análisis estructural de problemas**, buscando patrones, optimizaciones y soluciones eficientes, tanto en sistemas reales como en exploraciones matemáticas.
 
-¡Explora mis repositorios y disfruta del estudio de los números primos y las matemáticas detrás del Sudoku! Si tienes alguna pregunta, sugerencia o deseas colaborar, no dudes en contactarme.
+Actualmente estoy profundizando en el uso de **Inteligencia Artificial como herramienta de apoyo al razonamiento**, la productividad y la exploración de problemas complejos.
 
+---
+
+## 🧩 Áreas de especialización
+
+* ⚙️ Optimización de procesos batch
+* 🗄️ SQL avanzado y análisis de datos
+* 🧱 Sistemas legacy (VB6, SQR)
+* 🔄 Transformaciones y estructuras en Sudoku
+* 🧠 Análisis de patrones y complejidad computacional
+* 🤖 Aplicación práctica de Inteligencia Artificial
+
+---
+
+## 📌 Proyectos destacados
+
+### 🔢 Sudoku Transformations Engine
+
+Sistema para generar y analizar transformaciones geométricas del Sudoku 9x9
+
+* Generación de millones de combinaciones
+* Optimización de tiempos de ejecución
+* Enfoque estructural y matemático
+
+---
+
+### ⚙️ Batch Processing Optimization
+
+Análisis y mejora de procesos batch en entornos reales
+
+* Reducción de tiempos de ejecución
+* Identificación de cuellos de botella
+* Mejora en eficiencia operativa
+
+---
+
+### 🧠 AI Applied to Problem Solving
+
+Exploración del uso de IA como herramienta de razonamiento
+
+* Asistencia en análisis de problemas complejos
+* Generación de hipótesis
+* Mejora en productividad técnica
+
+---
+
+## 🧪 En qué estoy trabajando
+
+* 📘 Desarrollo de contenido técnico sobre Sudoku y estructuras matemáticas
+* 🤖 Aplicación de IA en resolución de problemas
+* 🚀 Creación de soluciones accesibles para adultos mayores usando IA
+* 🧩 Investigación sobre patrones y complejidad (P vs NP)
+
+---
+
+## 🧭 Filosofía de trabajo
+
+> “No se trata solo de resolver problemas, sino de entender su estructura.”
+
+* Enfoque de lo general a lo particular
+* Búsqueda de patrones antes que soluciones rápidas
+* Optimización continua
+* Código como medio, no como fin
+
+---
+
+## 📫 Contacto
+
+📧 Email: [maq777@gmail.com](mailto:maq777@gmail.com)
+
+---
+
+## ⚡ Nota
+
+Este repositorio refleja no solo proyectos, sino también una forma de pensar:
+la intersección entre programación, matemática y análisis estructural.
